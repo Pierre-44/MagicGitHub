@@ -11,7 +11,6 @@ public class UserRepository {
         // TODO: A utiliser -> ajouter l'appel vers l'apiService
 
     public UserRepository(ApiService apiService) {
-
         this.apiService = apiService;
     }
 
